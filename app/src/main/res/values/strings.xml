@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Channel Management</string>
+    <string name="text_added">已添加</string>
+    <string name="text_tips">长按编辑，拖拽排序</string>
+    <string name="text_edit">编辑</string>
+    <string name="text_done">完成</string>
+    <string name="text_not_added">未添加</string>
+</resources>
